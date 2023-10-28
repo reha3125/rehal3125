@@ -6,7 +6,7 @@
 - ##### 📊 Helped a company in their Business Decision Making for 1 year
 - ##### 📝 Ready to serve your company with the learnt skills.
 ### 📚 Projects 📚
-- ##### For my portfolio, click [HERE]([https://github.com/rehalarjun/Portfolio])
+- ##### For my portfolio, click [HERE](https://github.com/rehalarjun/Portfolio)
 ### 💡 Core Competencies 💡
 - ##### Tools: SQL, Python, Tableau
 - ##### Skills: Data Cleaning and Wrangling, Data Analysis, Data Visualisation, , Relational Databases, Dashboard Design and Development
