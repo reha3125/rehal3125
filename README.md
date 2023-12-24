@@ -12,4 +12,4 @@
 - ##### Skills: Data Cleaning and Wrangling, Data Analysis, Data Visualisation, , Relational Databases, Dashboard Design and Development
 ### ⚡️ Currently ⚡️
 - ##### Landed in Canada in 2022
-- ##### Ready to step my foot in Canada Data Analysis Industry with my Indian Work Experience
+- ##### Ready to step my foot in Canada Data Analysis Industry with my Canadian Work Experience
