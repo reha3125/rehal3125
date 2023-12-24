@@ -3,7 +3,7 @@
 
 ### ✨ About Me in 30 Secs ✨
 - ##### 👩🏻‍💻 Experienced Data Analyst
-- ##### 📊 Helped a company in their Business Decision Making for 1 year
+- ##### 📊 Helped a company in their Business Decision Making for 3 months
 - ##### 📝 Ready to serve your company with the learnt skills.
 ### 📚 Projects 📚
 - ##### For my portfolio, click [HERE](https://github.com/rehalarjun/Portfolio)
